@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1XUf0areo9kYrnHT4rMaiadXeanp6PRX3626NJZVw4tPL+kf9NaKAHj6FmvdO/yop6L0gvzBDVzaHwpXQ+fZYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabri\\source\\repos\\ConsumirAPI_JWT_Token\\ConsumirAPI_JWT_Token\\ConsumirAPI_JWT_Token.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
